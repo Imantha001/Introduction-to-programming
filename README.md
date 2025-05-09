@@ -4,7 +4,7 @@ This repository contains solutions to some programming questions . Each question
 
 ## File Descriptions
 
-### [Question 1.py](d:\.New Folder\Coz\IIT\Fou\1 Sem\DOC 333_Introduction to Programming\Coursework\Introduction to Programming\Question 1.py)
+### Question 1.py
 This program calculates the **Net Salary** after applying tax deductions based on the given monthly gross salary. The tax rates are applied progressively based on salary ranges.
 
 #### Input:
@@ -15,7 +15,7 @@ This program calculates the **Net Salary** after applying tax deductions based o
 
 ---
 
-### [Question 2.py](d:\.New Folder\Coz\IIT\Fou\1 Sem\DOC 333_Introduction to Programming\Coursework\Introduction to Programming\Question 2.py)
+### Question 2.py
 This program counts the occurrences of alphabetical characters and non-alphabetical characters in a given character stream.
 
 #### Input:
@@ -27,7 +27,7 @@ This program counts the occurrences of alphabetical characters and non-alphabeti
 
 ---
 
-### [Question 3.py](d:\.New Folder\Coz\IIT\Fou\1 Sem\DOC 333_Introduction to Programming\Coursework\Introduction to Programming\Question 3.py)
+### Question 3.py
 This program calculates the number of currency notes required to make up a given amount (less than 1000 Rs.) using denominations of 500, 100, 50, 20, 10, 5, and 1.
 
 #### Input:
@@ -38,7 +38,7 @@ This program calculates the number of currency notes required to make up a given
 
 ---
 
-### [Question 4.py](d:\.New Folder\Coz\IIT\Fou\1 Sem\DOC 333_Introduction to Programming\Coursework\Introduction to Programming\Question 4.py)
+### Question 4.py
 This program calculates the square of a given integer (between 1 and 100) using the sum of consecutive odd numbers.
 
 #### Input:
